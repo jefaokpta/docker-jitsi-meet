@@ -1,0 +1,1 @@
+ config.welcomePage.disabled = true;
